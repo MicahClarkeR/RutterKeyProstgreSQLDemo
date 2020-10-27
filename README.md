@@ -1,1 +1,2 @@
-# RutterKeyProstgreSQLDemo
+# RutterKey Postgre SQL Demo
+In my spare time, I've been been learning in-demand skills. Including PostgreSQL, adding to my extensive MySQL and TSQL knowledge, which I've used across many personal and professional projects. This is an in-development personal project I was developing to help learn PostgreSQL, a database for a video sharing website where users could; upload video, watch video, comment on videos, and join other users to create groups.
